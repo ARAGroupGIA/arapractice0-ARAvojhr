@@ -1,5 +1,4 @@
-/* Here, you should entry the required libraries */
-
+#include <stdio.h>
 void main(){
-	/* Here, you should write the source code of your program */
+	printf("Hello world version 2\n");
 }
